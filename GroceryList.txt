@@ -1,0 +1,11 @@
+[Milk
+, Coffee
+, Bacon
+, Baby food
+, Sugar
+, Bread
+, Beer
+, Wine
+, Soda
+, Icecream
+]
